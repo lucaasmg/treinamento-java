@@ -2,7 +2,7 @@ import java.util.Objects;
 
 public class Programa{
 
-    public static void main(String[] args_) {  //  => void=n]ao retorna
+    public static void main(String[] args_) { 
         String[] args = {"multiplica", "7", "2"};
 
         System.out.println("Iniciado");
